@@ -21,7 +21,7 @@
 #include <h_export.h>
 #include "cbase.h"
 
-#include "hookedfunctions_table.h" //all the listed functions we want to intercept
+#include "hookedfunctions_table.hpp" //all the listed functions we want to intercept
 
 
 // Description of plugin
